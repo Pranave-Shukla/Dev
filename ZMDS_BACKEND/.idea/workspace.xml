@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="483fb103-466e-4d65-9796-a33a070696db" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/zdms/src/main/resources/application-dev.yml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/zdms/pom.xml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/zdms/src/main/java/com/zoetis/zdms/model/Audit.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/pom.xml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/zdms/src/main/java/com/zoetis/zdms/model/dictionary/Availability.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/zdms/src/main/java/com/zoetis/zdms/model/dictionary/AccountType.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/zdms/src/main/java/com/zoetis/zdms/dao/repository/LocalizedRejectionReasonRepository.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/zdms/src/main/java/com/zoetis/zdms/dao/repository/ProductMediaFileRepository.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/zdms/src/main/resources/application.yml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/zdms/src/main/resources/log4j2.xml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/zdms/src/main/java/com/zoetis/zdms/model/dictionary/CustomerType.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../Program Files/apache-maven-3.6.1" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="25yT4EnAWtJV2A8GQglVwVGVnFJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ZMDS_FRONTEND" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\WWaldon\Projects\Zoetis\ZMDS_BACKEND\zdms\src\main\java\com\zoetis\zdms\exception\common" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.zoetis.zdms.dao.repository" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Application">
+    <configuration name="ExceptionHandlerAdviceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="zdms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zoetis.zdms.exception.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zoetis.zdms.exception" />
+      <option name="MAIN_CLASS_NAME" value="com.zoetis.zdms.exception.ExceptionHandlerAdviceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExceptionHandlerAdviceTest.testHandleCommonException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="zdms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zoetis.zdms.exception.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zoetis.zdms.exception" />
+      <option name="MAIN_CLASS_NAME" value="com.zoetis.zdms.exception.ExceptionHandlerAdviceTest" />
+      <option name="METHOD_NAME" value="testHandleCommonException" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JacksonConfigTest.shouldUseJsonNullableModule" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="zdms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zoetis.zdms.config.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zoetis.zdms.config" />
+      <option name="MAIN_CLASS_NAME" value="com.zoetis.zdms.config.JacksonConfigTest" />
+      <option name="METHOD_NAME" value="shouldUseJsonNullableModule" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZMDS_BACKEND [clean,install]" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="install" />
+                <option value="-DskipTests" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="zdms" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zoetis.zdms.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.ExceptionHandlerAdviceTest" />
+      <item itemvalue="JUnit.ExceptionHandlerAdviceTest.testHandleCommonException" />
+      <item itemvalue="JUnit.JacksonConfigTest.shouldUseJsonNullableModule" />
+      <item itemvalue="Maven.ZMDS_BACKEND [clean,install]" />
+      <item itemvalue="Spring Boot.Application" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ExceptionHandlerAdviceTest.testHandleCommonException" />
+        <item itemvalue="JUnit.ExceptionHandlerAdviceTest" />
+        <item itemvalue="JUnit.JacksonConfigTest.shouldUseJsonNullableModule" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="483fb103-466e-4d65-9796-a33a070696db" name="Changes" comment="" />
+      <created>1646498133864</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646498133864</updated>
+      <workItem from="1646498135196" duration="2544000" />
+      <workItem from="1650809520096" duration="26555000" />
+      <workItem from="1654605171964" duration="11573000" />
+      <workItem from="1654693425320" duration="3034000" />
+      <workItem from="1654701174403" duration="5781000" />
+      <workItem from="1654799357370" duration="4919000" />
+    </task>
+    <task id="LOCAL-00001" summary="[ZOETISDM-385] Bump spring-boot-starter-parent and log4j2 versions">
+      <created>1650810591197</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1650810591197</updated>
+    </task>
+    <task id="LOCAL-00002" summary="[ZOETISDM-385] Bump spring-boot-starter-parent and log4j2 versions&#10;&#10;Change-Id: I5f8ad18d261da621cb26c20096c133dc895d63de">
+      <created>1650810750851</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1650810750851</updated>
+    </task>
+    <task id="LOCAL-00003" summary="[ZOETISDM-384] Error handling">
+      <created>1651084632976</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1651084632976</updated>
+    </task>
+    <task id="LOCAL-00004" summary="[ZOETISDM-384] Error handling&#10;&#10;Change-Id: I05892bf139901447bf2707478a55a164112ebd86">
+      <created>1651140874903</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1651140874903</updated>
+    </task>
+    <task id="LOCAL-00005" summary="[ZOETISDM-384] Error handling&#10;&#10;Change-Id: I05892bf139901447bf2707478a55a164112ebd86">
+      <created>1651164844016</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1651164844016</updated>
+    </task>
+    <task id="LOCAL-00006" summary="[ZOETISDM-384] Error handling&#10;&#10;Change-Id: I05892bf139901447bf2707478a55a164112ebd86">
+      <created>1651164975883</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1651164975883</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="[ZOETISDM-385] Bump spring-boot-starter-parent and log4j2 versions" />
+    <MESSAGE value="[ZOETISDM-385] Bump spring-boot-starter-parent and log4j2 versions&#10;&#10;Change-Id: I5f8ad18d261da621cb26c20096c133dc895d63de" />
+    <MESSAGE value="[ZOETISDM-384] Error handling" />
+    <MESSAGE value="[ZOETISDM-384] Error handling&#10;&#10;Change-Id: I05892bf139901447bf2707478a55a164112ebd86" />
+    <option name="LAST_COMMIT_MESSAGE" value="[ZOETISDM-384] Error handling&#10;&#10;Change-Id: I05892bf139901447bf2707478a55a164112ebd86" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/zdms/src/main/java/com/zoetis/zdms/service/DictionaryService.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/zdms/src/main/java/com/zoetis/zdms/rest/CustomerController.java</url>
+          <line>71</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/zdms/src/main/java/com/zoetis/zdms/exception/handler/ExceptionHandlerAdvice.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/zdms/src/main/java/com/zoetis/zdms/exception/handler/ExceptionHandlerAdvice.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/zdms/src/main/java/com/zoetis/zdms/exception/handler/ExceptionHandlerAdvice.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/jakarta/persistence/jakarta.persistence-api/2.2.3/jakarta.persistence-api-2.2.3.jar!/javax/persistence/Entity.class</url>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
