@@ -15,7 +15,6 @@
     "test:tslint": "tslint --project tsconfig.json --fix",
     "tsc:compile": "tsc --project tsconfig.json"
   },
-  
   "author": "Bluesoft",
   "license": "ISC",
   "devDependencies": {
@@ -88,6 +87,7 @@
     "formik": "^2.2.9",
     "react": "16.14.0",
     "react-bootstrap": "0.32.4",
+    "react-data-grid": "^7.0.0-beta.7",
     "react-data-grid-addons": "^7.0.0-alpha.24",
     "react-data-table-component": "^7.3.0",
     "react-datepicker": "^4.2.1",
