@@ -45,7 +45,8 @@ const ProductDetailsComponentFC: FC<ProductDetailsComponentProps> = ({
         },
       ]}
       selectedValue={context}
-      setSelectedValue={setContext}
+      // setSelectedValue={setContext}
+      setSelectedValue={(e) => setContext(e.target.value)}
       title={PRODUCT_DETAILS_LABELS.CONTEXT}
     />
     <div className={styles.ProductDetailsWrapper}>

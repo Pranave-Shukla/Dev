@@ -7,7 +7,8 @@ export const configuration = {
       MOCK_SERVER: 3010, // TODO mock server z tego nie korzysta
       WEBPACK_SERVER: 3011,
     },
-    SERVER: '',
+    SDK_BASE_PATH: "http://localhost:8443",
+    // SERVER: '',
   },
   SDK_BASE_PATH: '',
 }
