@@ -27,7 +27,7 @@ jobs:
 
     - name: Build with Maven
       run: mvn -B package --file pom.xml
-      working-directory: zdms_backend
+      working-directory: ZMDS_BACKEND
 
     - name: Publish to GitHub Packages Apache Maven
       run: mvn deploy -s $GITHUB_WORKSPACE/settings.xml
