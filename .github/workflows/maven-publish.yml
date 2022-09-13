@@ -23,7 +23,7 @@ jobs:
         cache: maven
     - name: step 2- Build with Maven
       run: mvn clean install
-      working-directory: filemanagementsystem
+      working-directory: file
       
     
      
