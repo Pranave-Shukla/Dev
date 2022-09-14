@@ -34,7 +34,7 @@ jobs:
     # compile job
  
   build:
-    runs-on: ubuntu-20.04
+    runs-on: windows-latest
 s: compile
     name: Build the Maven Project
     
@@ -52,13 +52,13 @@ s: compile
           java-version: '11'
           java-package: jdk
     - name: Build and test project
-      working-directory: github-actions-java-maven
+      working-directory: file
       run: mvn -B verify
     - name: Upload Maven build artifact
       uses: actions/upload-artifact@v2
       with:
         name: artifact.jar
-        path: github-actions-java-maven/target/github-actions-java-maven.jar
+        path: windows-latest/target/
       
       
     
