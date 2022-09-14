@@ -22,8 +22,9 @@ jobs:
         distribution: 'adopt'
         cache: maven
     - name: step 2- Build with Maven
-      run: mvn clean install
       working-directory: file
+      run: mvn clean install
+      
       
     
      
